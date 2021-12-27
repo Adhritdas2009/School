@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+
+#image{
+    border-radius: 2000px;
+}
+
+#email{
+    color: white;
+}
